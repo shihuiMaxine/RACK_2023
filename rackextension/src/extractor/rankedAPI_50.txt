@@ -1,0 +1,150 @@
+What is the difference between a list and a tuple in Python?
+all: ['differ', 'list', 'tupl', 'python']
+rankedAPIs:  ['append', 'len', 'range', 'list', 'zip', 'tuple', 'set', 'sorted', 'items', 'split', 'map', 'join', 'open']
+How do you create a dictionary in Python?
+all: ['creat', 'dictionari', 'python']
+rankedAPIs:  ['append', 'items', 'open', 'dict', 'len', 'defaultdict', 'split', 'range', '__init__', 'list', 'join', 'zip', 'get']
+How do you use a for loop to iterate over a list in Python?
+all: ['loop', 'iter', 'list', 'python']
+rankedAPIs:  ['append', 'range', 'len', 'list', 'enumerate', 'zip', 'open', 'join', 'str', 'split', 'int']
+What is the difference between an if statement and a while loop in Python?
+all: ['differ', 'statement', 'loop', 'python']
+rankedAPIs:  ['range', 'append', 'len', 'int', 'input', 'str', 'list', 'open', 'dis', 'join', 'format', 'get']
+How do you use the range function in Python to create a sequence of numbers?
+all: ['rang', 'function', 'python', 'creat', 'sequenc', 'number']
+rankedAPIs:  ['range', 'len', 'append', 'list', 'int', 'str', 'join', 'DataFrame', 'groupby', 'split', 'open']
+How do you open and read a file in Python?
+all: ['open', 'read', 'file', 'python']
+rankedAPIs:  ['open', 'read', 'write', 'join', 'split', 'append', 'os', 'close', 'strip', 'len', 'seek', 'get']
+What is the purpose of a try-except block in Python?
+all: ['purpos', 'block', 'python']
+rankedAPIs:  ['open', 'len', '__init__', 'Exception', 'append', 'range', 'Foo', 'guard', 'join', 'callback', 'get', 'format', 'split']
+How do you define a function in Python?
+all: ['defin', 'function', 'python']
+rankedAPIs:  ['__init__', 'append', 'range', 'len', 'input', 'f', 'int', 'str', 'get', 'open', 'numpy', 'format', 'foo']
+How do you use the random module in Python to generate a random number?
+all: ['random', 'modul', 'python', 'generat', 'number']
+rankedAPIs:  ['range', 'random', 'len', 'append', 'randint', 'int', 'choice', 'join', 'open', 'list', 'numpy', 'str', 'sys']
+What is object-oriented programming in Python and how does it differ from procedural programming?
+all: ['object', 'orient', 'program', 'python', 'differ', 'procedur']
+rankedAPIs:  ['__init__', 'append', 'open', 'range', 'str', 'input', 'list', 'len', 'Bike', 'get', 'join', 'int', '__str__', 'groupby']
+What is the purpose of the init method in Python classes?
+all: ['purpos', 'init', 'method', 'python', 'class']
+rankedAPIs:  ['__init__', 'super', 'A', 'type', 'Foo', 'append', '__new__', 'len', 'get', 'range', 'format', 'getattr']
+How do you define and use a class in Python?
+all: ['defin', 'class', 'python']
+rankedAPIs:  ['__init__', 'append', 'super', 'type', 'A', 'len', 'range', 'str', 'get', 'format', 'int', 'input']
+How do you use the input function in Python to get user input?
+all: ['input', 'function', 'python', 'user']
+rankedAPIs:  ['input', 'int', 'append', 'range', 'len', 'split', 'raw_input', 'get', 'str', 'open', 'save']
+How do you use the format method in Python to format a string?
+all: ['format', 'method', 'python', 'string']
+rankedAPIs:  ['format', 'join', 'split', 'len', 'datetime', 'str', 'append', 'range', 'open', 'get', 'replace', 'super']
+What is the purpose of a lambda function in Python?
+all: ['purpos', 'lambda', 'function', 'python']
+rankedAPIs:  ['range', 'len', '__init__', 'f', 'map', 'append', 'apply', 'list', 'str', 'patch', 'get', 'int', 'join']
+How do you use the map function in Python to apply a function to each element of a list?
+all: ['map', 'function', 'python', 'appli', 'element', 'list']
+rankedAPIs:  ['len', 'range', 'list', 'append', 'map', 'zip', 'apply', 'DataFrame', 'array', 'numpy', 'split', 'get', 'join', 'open']
+How do you use the filter function in Python to filter elements from a list?
+all: ['filter', 'function', 'python', 'element', 'list']
+rankedAPIs:  ['append', 'len', 'list', 'range', 'filter', 'groupby', 'map', 'split', 'zip', 'get', 'join', 'enumerate', 'str']
+What is the purpose of a set in Python and how does it differ from a list or tuple?
+all: ['purpos', 'set', 'python', 'differ', 'list', 'tupl']
+rankedAPIs:  ['append', 'len', 'range', 'list', 'set', 'tuple', 'zip', 'array', 'open', 'split', 'join', 'DataFrame', 'numpy', 'map', '__init__', 'groupby']
+How do you use regular expressions in Python to search for and manipulate text?
+all: ['regular', 'express', 'python', 'search', 'manipul', 'text']
+rankedAPIs:  ['re', 'open', 'findall', 'compile', 'split', 'search', 'sub', 'append', 'join', 'len', 'get', 'range', 'group']
+How do you use the datetime module in Python to work with dates and times?
+all: ['datetim', 'modul', 'python', 'work', 'date', 'time']
+rankedAPIs:  ['datetime', 'to_datetime', 'strptime', 'time', 'date', 'strftime', 'range', 'append', 'DataFrame', 'now', 'pandas', 'len', 'join', 'get', 'open', 'timedelta', 'groupby']
+How do you use the argparse module in Python to parse command-line arguments?
+all: ['argpars', 'modul', 'python', 'pars', 'command', 'argument']
+rankedAPIs:  ['add_argument', 'parse_args', 'ArgumentParser', 'split', 'argparse', 'sys', 'open', 'Namespace', 'format', 'get', 'append', 'range', 'os', '__init__', 'join', 'main']
+What is a decorator in Python and how do you use it?
+all: ['decor', 'python']
+rankedAPIs:  ['func', 'wraps', 'wrapper', '__init__', 'f', 'decorator', '__call__', 'foo', 'getattr', 'format', 'get']
+How do you write unit tests for a Python function using the unittest module?
+all: ['write', 'unit', 'test', 'python', 'function', 'unittest', 'modul']
+rankedAPIs:  ['assertEqual', 'unittest', 'patch', 'main', 'setUp', '__init__', 'open', 'assertTrue', 'range', 'append', 'len', 'get', 'sys']
+What is the purpose of the sys module in Python and how do you use it?
+all: ['purpos', 'sys', 'modul', 'python']
+rankedAPIs:  ['sys', 'os', 'open', 'append', 'len', 'join', 'main', '__init__', 'format', 'exit', 'range', 'get', 'fakemodule']
+How do you implement a binary search algorithm in Python?
+all: ['implement', 'binari', 'search', 'algorithm', 'python']
+rankedAPIs:  ['len', 'range', 'append', '__init__', 'int', 'insert', 'open', 'list', 'search', 'numpy', 'get', 'join', 'sum', 'array']
+How do you use the logging module in Python to log messages?
+all: ['log', 'modul', 'python', 'messag']
+rankedAPIs:  ['getLogger', 'logging', 'setLevel', 'addHandler', 'info', 'get', 'open', 'debug', '__init__', 'format', 'append', 'join', 'range', 'str', 'len', 'sys']
+How do you use the requests module in Python to make HTTP requests?
+all: ['request', 'modul', 'python', 'http']
+rankedAPIs:  ['get', 'requests', 'post', 'open', 'json', 'read', 'Session', 'BeautifulSoup', 'Request', 'urlopen', 'join', 'format', 'range', 'dumps']
+How do you use the Flask web framework to build a REST API in Python?
+all: ['flask', 'web', 'framework', 'build', 'rest', 'api', 'python']
+rankedAPIs:  ['get', 'Flask', 'route', 'run', 'json', 'post', 'all', 'requests', 'append', 'open', 'join', 'Response', 'is_valid', 'save', 'CharField', 'super', 'render_template']
+How do you use the SQLAlchemy ORM in Python to interact with a relational database?
+all: ['sqlalchemi', 'orm', 'python', 'interact', 'relat', 'databas']
+rankedAPIs:  ['Column', 'query', 'filter', 'all', 'execute', 'commit', 'get', 'create_engine', 'join', 'ForeignKey', 'append', 'range', '__init__']
+How do you use the asyncio module in Python to write asynchronous code?
+all: ['asyncio', 'modul', 'python', 'write', 'asynchron', 'code']
+rankedAPIs:  ['open', 'sleep', 'main', 'get', 'write', 'asyncio', 'append', 'get_event_loop', 'range', 'join', 'format', 'str', 'len', 'run']
+How do you use the multiprocessing module in Python to write concurrent programs?
+all: ['multiprocess', 'modul', 'python', 'write', 'concurr', 'program']
+rankedAPIs:  ['range', 'Pool', 'join', 'open', 'append', 'Process', 'write', 'start', 'sleep', 'get', 'str', 'len', 'format', 'map', 'input']
+How do you use the PyYAML library in Python to read and write YAML files?
+all: ['pyyaml', 'librari', 'python', 'read', 'write', 'yaml', 'file']
+rankedAPIs:  ['open', 'load', 'append', 'dump', 'write', 'yaml', 'read', 'join', 'len', 'split', 'format', 'range', 'sys', 'YAML']
+How do you use the Pillow library in Python to work with images?
+all: ['pillow', 'librari', 'python', 'work', 'imag']
+rankedAPIs:  ['open', 'Image', 'save', 'range', 'get', 'append', 'numpy', 'new', 'len', 'join', 'convert', 'str', 'int', 'split', 'format', 'imread']
+What is the purpose of the hashlib module in Python and how do you use it?
+all: ['purpos', 'hashlib', 'modul', 'python']
+rankedAPIs:  ['open', '__init__', 'hexdigest', 'encode', 'sys', 'sha1', 'len', 'fakemodule', 'join', 'format', 'range', 'append', 'get', 'hashlib']
+How do you use the Jinja2 templating engine in Python to generate HTML pages?
+all: ['jinja2', 'templat', 'engin', 'python', 'generat', 'html']
+rankedAPIs:  ['render', 'get', 'Template', 'render_template', 'join', 'route', 'Environment', 'write', 'append', 'open', 'all', 'len', 'BeautifulSoup']
+How do you use the asyncio module in Python to write asynchronous web servers?
+all: ['asyncio', 'modul', 'python', 'write', 'asynchron', 'web', 'server']
+rankedAPIs:  ['get', 'open', 'write', 'append', 'get_event_loop', 'sleep', 'asyncio', 'run', 'range', 'close', 'join', 'format', 'main', 'sys']
+How do you use the click module in Python to build command-line interfaces?
+all: ['click', 'modul', 'python', 'build', 'command', 'interfac']
+rankedAPIs:  ['click', 'append', 'command', 'open', 'get', 'split', 'sys', 'call', 'format', 'range', 'group', '__init__', 'join', 'len', 'os', 'Popen']
+How do you use the Pygame library in Python to build simple games?
+all: ['pygam', 'librari', 'python', 'build', 'simpl', 'game']
+rankedAPIs:  ['range', 'get', 'append', 'input', 'len', 'int', 'fill', 'update', 'join', 'open', 'str', 'numpy', 'blit', 'randint']
+What is a generator in Python and how do you use it?
+all: ['generat', 'python']
+rankedAPIs:  ['range', 'append', 'len', 'list', 'join', 'random', 'open', 'next', 'randint', 'product', 'numpy']
+How do you use the scikit-learn library in Python to perform machine learning tasks?
+all: ['scikit', 'learn', 'librari', 'python', 'perform', 'machin', 'task']
+rankedAPIs:  ['fit', 'predict', 'append', 'array', 'numpy', 'len', 'range', 'fit_transform', 'get', 'join', 'format', 'train_test_split']
+How do you use the print() function in Python to display output to the console?
+all: ['print', 'function', 'python', 'display', 'output', 'consol']
+rankedAPIs:  ['range', 'open', 'append', 'len', 'str', 'write', 'sys', 'join', 'format', 'get', 'int', 'split', 'input']
+How do you use variables in Python to store and manipulate data?
+all: ['variabl', 'python', 'store', 'manipul', 'data']
+rankedAPIs:  ['append', 'open', 'split', 'len', 'range', 'get', 'join', 'DataFrame', '__init__', 'int', 'str', 'pandas']
+What is the difference between a string and a number in Python?
+all: ['differ', 'string', 'number', 'python']
+rankedAPIs:  ['len', 'range', 'append', 'split', 'int', 'join', 're', 'open', 'str', 'list', 'format', 'zip']
+How do you use if statements in Python to control program flow?
+all: ['statement', 'python', 'control', 'program', 'flow']
+rankedAPIs:  ['range', 'len', 'append', 'input', 'str', 'int', '__init__', 'get', 'format', 'open', 'join', 'sleep', 'numpy']
+How do you use for loops in Python to iterate over a sequence of items?
+all: ['loop', 'python', 'iter', 'sequenc', 'item']
+rankedAPIs:  ['append', 'len', 'range', 'list', 'join', 'enumerate', 'open', 'str', 'get', 'int', 'split', 'items', 'next']
+What is a function in Python and how do you define and call one?
+all: ['function', 'python', 'defin', 'call']
+rankedAPIs:  ['__init__', 'range', 'append', 'len', 'input', 'get', 'f', 'foo', 'str', 'int', 'format', 'numpy', 'open']
+How do you use lists in Python to store and manipulate collections of data?
+all: ['list', 'python', 'store', 'manipul', 'collect', 'data']
+rankedAPIs:  ['append', 'len', 'open', 'range', 'split', 'get', 'join', 'list', 'DataFrame', 'int', 'pandas', 'groupby']
+What is a dictionary in Python and how do you use it?
+all: ['dictionari', 'python']
+rankedAPIs:  ['items', 'append', 'dict', 'defaultdict', 'open', 'len', 'split', 'get', 'list', 'keys']
+How do you use modules in Python to organize and reuse code?
+all: ['modul', 'python', 'organ', 'reus', 'code']
+rankedAPIs:  ['append', 'open', 'format', 'range', 'len', '__init__', 'join', 'get', 'sys', 'str', 'int', 'main']
+How do you use the try-except block in Python to handle exceptions and errors?
+all: ['block', 'python', 'handl', 'except', 'error']
+rankedAPIs:  ['open', 'get', 'str', 'append', 'len', '__init__', 'format', 'int', 'range', 'input', 'join']

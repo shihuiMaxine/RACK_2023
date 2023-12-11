@@ -1,0 +1,51 @@
+question,P percents,R percents,f1 percents
+What is the difference between a list and a tuple in Python?,0.0,0.0,0
+How do you create a dictionary in Python?,0.1111111111111111,0.06666666666666667,0.08333333333333334
+How do you use a for loop to iterate over a list in Python?,0.1111111111111111,0.1111111111111111,0.1111111111111111
+What is the difference between an if statement and a while loop in Python?,0.0,0.0,0
+How do you use the range function in Python to create a sequence of numbers?,0.1111111111111111,0.5,0.1818181818181818
+How do you open and read a file in Python?,0.1111111111111111,0.16666666666666666,0.13333333333333333
+What is the purpose of a try-except block in Python?,0.1111111111111111,0.16666666666666666,0.13333333333333333
+How do you define a function in Python?,0.0,0.0,0
+How do you use the random module in Python to generate a random number?,0.2222222222222222,1.0,0.3636363636363636
+What is object-oriented programming in Python and how does it differ from procedural programming?,0.0,0,0
+What is the purpose of the init method in Python classes?,0.1111111111111111,0.2,0.14285714285714285
+How do you define and use a class in Python?,0.0,0.0,0
+ How do you use the input function in Python to get user input?,0.1111111111111111,1.0,0.19999999999999998
+How do you use the format method in Python to format a string?,0.1111111111111111,0.3333333333333333,0.16666666666666666
+What is the purpose of a lambda function in Python?,0.0,0.0,0
+How do you use the map function in Python to apply a function to each element of a list?,0.1111111111111111,0.2,0.14285714285714285
+How do you use the filter function in Python to filter elements from a list?,0.1111111111111111,0.2,0.14285714285714285
+What is the purpose of a set in Python and how does it differ from a list or tuple?,0.0,0,0
+How do you use regular expressions in Python to search for and manipulate text?,0.1111111111111111,0.07692307692307693,0.09090909090909093
+How do you use the datetime module in Python to work with dates and times?,0.1111111111111111,0.0625,0.08
+How do you use the argparse module in Python to parse command-line arguments?,0.1111111111111111,0.02564102564102564,0.041666666666666664
+What is a decorator in Python and how do you use it?,0.0,0.0,0
+How do you write unit tests for a Python function using the unittest module?,0.0,0.0,0
+What is the purpose of the sys module in Python and how do you use it?,0.1111111111111111,0.14285714285714285,0.125
+How do you implement a binary search algorithm in Python?,0.0,0.0,0
+How do you use the logging module in Python to log messages?,0.2222222222222222,0.08695652173913043,0.125
+How do you use the requests module in Python to make HTTP requests?,0.2222222222222222,0.5,0.30769230769230765
+How do you use the Flask web framework to build a REST API in Python?,0.1111111111111111,0.0625,0.08
+How do you use the SQLAlchemy ORM in Python to interact with a relational database?,0.1111111111111111,0.013888888888888888,0.024691358024691357
+How do you use the asyncio module in Python to write asynchronous code?,0.0,0.0,0
+How do you use the multiprocessing module in Python to write concurrent programs?,0.0,0.0,0
+How do you use the PyYAML library in Python to read and write YAML files?,0.0,0.0,0
+How do you use the Pillow library in Python to work with images?,0.1111111111111111,0.02631578947368421,0.0425531914893617
+What is the purpose of the hashlib module in Python and how do you use it?,0.1111111111111111,0.14285714285714285,0.125
+How do you use the Jinja2 templating engine in Python to generate HTML pages?,0.0,0.0,0
+How do you use the asyncio module in Python to write asynchronous web servers?,0.1111111111111111,0.00909090909090909,0.01680672268907563
+How do you use the click module in Python to build command-line interfaces?,0.2222222222222222,0.2222222222222222,0.2222222222222222
+How do you use the Pygame library in Python to build simple games?,0.0,0.0,0
+What is a generator in Python and how do you use it?,0.0,0.0,0
+How do you use the scikit-learn library in Python to perform machine learning tasks?,0.0,0.0,0
+How do you use the print() function in Python to display output to the console?,0.1111111111111111,0.2,0.14285714285714285
+How do you use variables in Python to store and manipulate data?,0.0,0.0,0
+What is the difference between a string and a number in Python?,0.1111111111111111,0.3333333333333333,0.16666666666666666
+How do you use if statements in Python to control program flow?,0.0,0.0,0
+How do you use for loops in Python to iterate over a sequence of items?,0.0,0.0,0
+What is a function in Python and how do you define and call one?,0.0,0.0,0
+How do you use lists in Python to store and manipulate collections of data?,0.0,0.0,0
+What is a dictionary in Python and how do you use it?,0.0,0,0
+How do you use modules in Python to organize and reuse code?,0.0,0.0,0
+How do you use the try-except block in Python to handle exceptions and errors?,0.1111111111111111,0.5,0.1818181818181818

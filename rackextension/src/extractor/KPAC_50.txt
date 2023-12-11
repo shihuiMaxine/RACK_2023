@@ -1,0 +1,149 @@
+What is the difference between a list and a tuple in Python?
+append len list range zip tuple set items sorted open 
+
+How do you create a dictionary in Python?
+append items open dict len defaultdict split range __init__ zip 
+
+How do you use a for loop to iterate over a list in Python?
+append range len list enumerate zip open join str split 
+
+What is the difference between an if statement and a while loop in Python?
+range len append int input str list open zip format 
+
+How do you use the range function in Python to create a sequence of numbers?
+range len append list int str split DataFrame join groupby 
+
+How do you open and read a file in Python?
+open read write join split append os close strip seek 
+
+What is the purpose of a try-except block in Python?
+open __init__ len Exception append range next socket int join 
+
+How do you define a function in Python?
+__init__ append range len input f int str open foo 
+
+How do you use the random module in Python to generate a random number?
+range random len append randint int choice join open list 
+
+What is object-oriented programming in Python and how does it differ from procedural programming?
+append __init__ str open range list len input update_sale_price sell 
+
+What is the purpose of the init method in Python classes?
+__init__ super type A append __new__ Foo len get getattr 
+
+How do you define and use a class in Python?
+__init__ append super type len range A str get getattr 
+
+How do you use the input function in Python to get user input?
+input int append range len split raw_input get str open 
+
+How do you use the format method in Python to format a string?
+format join len split str datetime append range open replace 
+
+What is the purpose of a lambda function in Python?
+range len __init__ f map append apply list int open 
+
+How do you use the map function in Python to apply a function to each element of a list?
+range len list append map zip apply DataFrame numpy array 
+
+How do you use the filter function in Python to filter elements from a list?
+append len list range filter groupby map split zip join 
+
+What is the purpose of a set in Python and how does it differ from a list or tuple?
+append len list range set tuple zip open __init__ split 
+
+How do you use regular expressions in Python to search for and manipulate text?
+re open findall split search sub compile append group join 
+
+How do you use the datetime module in Python to work with dates and times?
+datetime strptime to_datetime time strftime date range append timedelta now 
+
+How do you use the argparse module in Python to parse command-line arguments?
+add_argument parse_args ArgumentParser split argparse sys open Namespace append main 
+
+What is a decorator in Python and how do you use it?
+func wraps wrapper __init__ f decorator __call__ foo getattr format 
+
+How do you write unit tests for a Python function using the unittest module?
+unittest patch assertEqual main setUp sys __init__ open len range 
+
+What is the purpose of the sys module in Python and how do you use it?
+sys os open append join write len __init__ hello exc_info 
+
+How do you implement a binary search algorithm in Python?
+len append range __init__ int open insert search get list 
+
+How do you use the logging module in Python to log messages?
+getLogger logging setLevel info addHandler get open debug append main 
+
+How do you use the requests module in Python to make HTTP requests?
+get requests post open read json Session BeautifulSoup urlopen dumps 
+
+How do you use the Flask web framework to build a REST API in Python?
+get route Flask run json post all requests render_template open 
+
+How do you use the SQLAlchemy ORM in Python to interact with a relational database?
+query filter execute all Column commit get create_engine save select 
+
+How do you use the asyncio module in Python to write asynchronous code?
+sleep open write main range get get_event_loop run append asyncio 
+
+How do you use the multiprocessing module in Python to write concurrent programs?
+range join open Pool write start sleep Process append map 
+
+How do you use the PyYAML library in Python to read and write YAML files?
+open yaml write load dump read append split join sys 
+
+How do you use the Pillow library in Python to work with images?
+open Image save range get numpy new append join imread 
+
+What is the purpose of the hashlib module in Python and how do you use it?
+open sys hexdigest __init__ sha512 hello append hashlib len fakemodule 
+
+How do you use the Jinja2 templating engine in Python to generate HTML pages?
+render get Template render_template route write join open append Environment 
+
+How do you use the asyncio module in Python to write asynchronous web servers?
+get write open sleep get_event_loop run append asyncio sys range 
+
+How do you use the click module in Python to build command-line interfaces?
+click split open command append sys get os str group 
+
+How do you use the Pygame library in Python to build simple games?
+range get input len append setup int update join set_mode
+
+What is a generator in Python and how do you use it?
+range append len list join random open next randint product 
+
+How do you use the scikit-learn library in Python to perform machine learning tasks?
+fit predict numpy range len transform train_test_split append get array 
+
+How do you use the print() function in Python to display output to the console?
+range open append str len write sys join format input 
+
+How do you use variables in Python to store and manipulate data?
+append open split range len get join DataFrame __init__ str 
+
+What is the difference between a string and a number in Python?
+len range append split int join re open list zip 
+
+How do you use if statements in Python to control program flow?
+range len str input append int time get format sleep 
+
+How do you use for loops in Python to iterate over a sequence of items?
+len append range list join enumerate open str zip split 
+
+What is a function in Python and how do you define and call one?
+__init__ range append len input get foo str f open 
+
+How do you use lists in Python to store and manipulate collections of data?
+append len open split range join get list DataFrame pandas 
+
+What is a dictionary in Python and how do you use it?
+items append dict defaultdict open len split get list keys 
+
+How do you use modules in Python to organize and reuse code?
+open append range format len get join __init__ sys main 
+
+How do you use the try-except block in Python to handle exceptions and errors?
+open str get len append int __init__ format input range
